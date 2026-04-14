@@ -1,0 +1,29 @@
+{
+  "id": "/",
+  "name": "StockLocal - Sistema de Inventarios",
+  "short_name": "StockLocal",
+  "description": "Aplicación Web Progresiva para gestión de inventarios con almacenamiento local, modo offline y notificaciones.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#168a5a",
+  "lang": "es-MX",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
